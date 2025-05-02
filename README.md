@@ -72,11 +72,6 @@ The plugin is implemented as a self-contained Unreal Editor plugin:
 - **Inline Code Generation**: AI was consulted for generating snippets for recursive reveal logic and bomb placement.
 - **Debugging and Reference**: AI was used to validate Unreal-specific syntax and to confirm adherence to Minesweeper rules.
 
-### Why AI Was Used
-- To save time on repetitive or boilerplate-heavy tasks.
-- To ensure best practices in Unreal Engine's Slate framework were followed.
-- To assist in generating code for complex logic (e.g., recursive reveal).
-
 ### AI Integration Notes
 AI was used sparingly, with the majority of the logic and architecture implemented manually. The focus remained on ensuring functionality and quality rather than over-reliance on automated tools.
 
