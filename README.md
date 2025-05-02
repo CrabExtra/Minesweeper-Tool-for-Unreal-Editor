@@ -21,7 +21,7 @@ The **Minesweeper Tool** is an Unreal Editor plugin that allows users to play a 
 ## Setup Instructions
 
 ### Prerequisites
-- Unreal Engine version 5.5 or higher.
+- Unreal Engine version 5.5.
 - A development environment set up for Unreal Engine C++ projects.
 
 ### Steps
