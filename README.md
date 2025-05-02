@@ -21,7 +21,7 @@ The **Minesweeper Tool** is an Unreal Editor plugin that allows users to play a 
 ## Setup Instructions
 
 ### Prerequisites
-- Unreal Engine version 5.x or higher.
+- Unreal Engine version 5.5 or higher.
 - A development environment set up for Unreal Engine C++ projects.
 
 ### Steps
@@ -68,17 +68,17 @@ The plugin is implemented as a self-contained Unreal Editor plugin:
 ## Use of AI/LLMs
 
 ### What was done with AI
-- **Syntax Assistance**: AI tools like GitHub Copilot were used to auto-complete repetitive Slate widget code and suggest Unreal-specific syntax.
-- **Inline Code Generation**: AI was used to generate snippets for recursive reveal logic and bomb placement.
-- **Overview and Debugging**: LLMs were consulted for debugging and ensuring adherence to Minesweeper rules.
+- **Syntax Assistance**: AI tools like GitHub Copilot were used to assist with repetitive code generation, particularly for Slate UI.
+- **Inline Code Generation**: AI was consulted for generating snippets for recursive reveal logic and bomb placement.
+- **Debugging and Reference**: AI was used to validate Unreal-specific syntax and to confirm adherence to Minesweeper rules.
 
 ### Why AI Was Used
-- To accelerate development by reducing the time spent on repetitive coding tasks.
-- To serve as a reference for Unreal-specific Slate and C++ best practices.
-- To provide suggestions for improving code readability and maintainability.
+- To save time on repetitive or boilerplate-heavy tasks.
+- To ensure best practices in Unreal Engine's Slate framework were followed.
+- To assist in generating code for complex logic (e.g., recursive reveal).
 
 ### AI Integration Notes
-While AI tools were used to assist in code generation, all logic and architecture decisions were made manually to ensure the Minesweeper tool met the functional requirements and adhered to Unreal Engine's framework.
+AI was used sparingly, with the majority of the logic and architecture implemented manually. The focus remained on ensuring functionality and quality rather than over-reliance on automated tools.
 
 ---
 
