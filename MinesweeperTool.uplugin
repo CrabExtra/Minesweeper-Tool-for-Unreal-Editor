@@ -1,0 +1,23 @@
+﻿{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "MinesweeperTool",
+	"Description": "A Minesweeper game tool for the Unreal Editor.",
+	"Category": "Other",
+	"CreatedBy": "AbbasGarousi",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "MinesweeperTool",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
