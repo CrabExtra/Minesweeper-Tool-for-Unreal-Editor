@@ -65,18 +65,6 @@ The plugin is implemented as a self-contained Unreal Editor plugin:
 
 ---
 
-## Use of AI/LLMs
-
-### What was done with AI
-- **Syntax Assistance**: AI tools like GitHub Copilot were used to assist with repetitive code generation, particularly for Slate UI.
-- **Inline Code Generation**: AI was consulted for generating snippets for recursive reveal logic and bomb placement.
-- **Debugging and Reference**: AI was used to validate Unreal-specific syntax and to confirm adherence to Minesweeper rules.
-
-### AI Integration Notes
-AI was used sparingly, with the majority of the logic and architecture implemented manually. The focus remained on ensuring functionality and quality rather than over-reliance on automated tools.
-
----
-
 ## Known Limitations
 - **No Bomb Flagging**: This feature was excluded per the task requirements.
 - **Minimal Visual Design**: The focus was on functionality and code quality, not visual polish.
